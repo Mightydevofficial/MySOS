@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Open navigation close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="help">
+\n\n\n
+How to Use
+\n
+- Do fill up everything in Account.Then Click get location and then click the big red MYSOS button to send SMS to the prefixed contacts.
+\n\n
+1.Account
+\n
+-Reset Profile can be used to reset Full Name, Email, Help Message and Emergency Contact of the user.
+\n
+-Reset Password can be used to reset password with full encryption.
+\n\n
+2.Emergency Notes
+\n
+-Emergency Notes contains notes for ways to react in multiple emergency situation.This notes will help you to react fast and correct way without thinking.With the knowledge of how to react to the emergency situation you will be able to help youself out from the dangerous emegency situation without anyones help most of the time.
+\n\n
+3.Rate
+\n
+-We loved to get rating for this application in the Google Play.With that we also would like to receive any kind of problem you face with the application.You can comment that in the Google Playstore.
+\n\n
+4.Share
+\n
+- You can not only safe your life but also the people you may know, by sharing this application to the people you know.
+\n\n
+5.Contact
+        \n
+-If you want to let us know any bugs or problem with the application you can also contact  us via the information provided.
+        2.Emergency Notes
+\n
+-Emergency Notes contains notes for ways to react in multiple emergency situation.This notes will help you to react fast and correct way without thinking.With the knowledge of how to react to the emergency situation you will be able to help youself out from the dangerous emegency situation without anyones help most of the time.
+\n\n
+3.Rate
+\n
+-We loved to get rating for this application in the Google Play.With that we also would like to receive any kind of problem you face with the application.You can comment that in the Google Playstore.
+\n\n
+4.Share
+\n
+- You can not only safe your life but also the people you may know, by sharing this application to the people you know.
+\n\n
+5.Contact
+        \n
+-If you want to let us know any bugs or problem with the application you can also contact  us via the information provided.
+    </string>
+
+</resources>

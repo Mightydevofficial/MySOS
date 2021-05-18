@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="notes_title">
+        <item>1. How to Report an Emergency</item>
+        <item>2. How to Handle an Emergency Situation</item>
+        <item>3. How to Communicate During an Emergency</item>
+        <item>4. How to Stop Your Car in an Emergency</item>
+        <item>5. Hands-Only CPR for Adults and Teens</item>
+        <item>6. Conventional CPR for Adults and Children</item>
+        <item>7. CPR for Infants (Under 1 Year)</item>
+        <item>8. How to Defending Yourself from Snakes</item>
+
+
+
+    </string-array>
+</resources>

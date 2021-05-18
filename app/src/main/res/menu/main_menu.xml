@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/ic_baseline_account"
+            android:title="Account" />
+        <item
+            android:id="@+id/nav_note"
+            android:icon="@drawable/ic_baseline_note"
+            android:title="Emergency Notes" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_baseline_help"
+            android:title="Help" />
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_baseline_star_rate_24"
+            android:title="Rate" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_baseline_share_24"
+            android:title="Share" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_login"
+            android:title="Logout" />
+
+    </group>
+</menu>
