@@ -3,7 +3,7 @@
 ***Version 1.0.0 ***
 
 MySOS is an android applcation.
--Provides user to get help fast in emergency situation.
+- Provides user to get help fast in emergency situation.
 
 Scope
 - Get help fast in an emergency situation.
@@ -12,8 +12,8 @@ Scope
 
 How to use
 
--Register and login using real email.
--Got to account in menu bar.
--Go to account, and go to Reset Profile and reset the profile info.
--Go back to main menu and click Get Location and then click MYSOS button.
+- Register and login using real email.
+- Got to account in menu bar.
+- Go to account, and go to Reset Profile and reset the profile info.
+- Go back to main menu and click Get Location and then click MYSOS button.
 - It will directly send your current location with short text to all the selected contact by the use in the Reset Profile.
