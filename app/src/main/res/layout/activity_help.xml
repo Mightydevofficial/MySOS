@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/plainwalpaper"
-    tools:context=".Help">
+    android:background="@drawable/slidewallpeper">
 
-    <ScrollView
+    <WebView
+        android:id="@+id/webView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:visibility="visible"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="161dp">
+        android:layout_height="match_parent" />
 
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:lineSpacingExtra="10sp"
-            android:text="@string/help"
-            android:textColor="#000000"
-            android:textSize="18sp"
-            android:textStyle="italic" />
-    </ScrollView>
-
-</LinearLayout>
+</RelativeLayout>
